@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/ashish1189/stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Stats Card](https://ashish1189.github.io/stats-preview-card-component/)
 
 ## My process
 
